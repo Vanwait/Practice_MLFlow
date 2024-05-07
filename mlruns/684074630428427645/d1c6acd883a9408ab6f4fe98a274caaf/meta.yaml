@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/684074630428427645/d1c6acd883a9408ab6f4fe98a274caaf/artifacts
+end_time: 1715080772124
+entry_point_name: ''
+experiment_id: '684074630428427645'
+lifecycle_stage: active
+run_id: d1c6acd883a9408ab6f4fe98a274caaf
+run_name: painted-newt-385
+run_uuid: d1c6acd883a9408ab6f4fe98a274caaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715080767777
+status: 3
+tags: []
+user_id: sergi

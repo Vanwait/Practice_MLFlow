@@ -17,14 +17,14 @@ X_train, X_test, y_train, y_test = train_test_split(
     X, y, test_size=0.2, random_state=42
 )
 
-rs = int(sys.argv[1]) if len(sys.argv) > 1 else 1111
+rs = float(sys.argv[1]) if len(sys.argv) > 1 else 1111
 
 # Define the model hyperparameters
 params = {
     "solver": "lbfgs",
     "max_iter": 1000,
     "multi_class": "auto",
-    "random_state": int(rs),
+    "random_state": rs,
 }
 
 # Train the model

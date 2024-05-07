@@ -18,6 +18,7 @@ X_train, X_test, y_train, y_test = train_test_split(
 )
 
 rs = int(sys.argv[1]) if len(sys.argv) > 1 else 1111
+print(type(rs))
 
 # Define the model hyperparameters
 params = {

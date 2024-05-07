@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/684074630428427645/0451e88f4ee54f64b9fb04dadf0847d0/artifacts
+end_time: 1715080494693
+entry_point_name: ''
+experiment_id: '684074630428427645'
+lifecycle_stage: active
+run_id: 0451e88f4ee54f64b9fb04dadf0847d0
+run_name: trusting-horse-558
+run_uuid: 0451e88f4ee54f64b9fb04dadf0847d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715080490233
+status: 3
+tags: []
+user_id: sergi

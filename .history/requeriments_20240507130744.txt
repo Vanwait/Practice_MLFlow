@@ -1,0 +1,2 @@
+mlflowmlflow==2.2.2
+scikit-learn
